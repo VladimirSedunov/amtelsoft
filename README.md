@@ -30,7 +30,7 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 
 
 ### Для запуска автотестов в Jenkins
-#### 1. Открыть <a target="_blank" href="http://10.155.56.61:8888/job/Demo test softwarecom/">проект</a>
+#### 1. Открыть проект
 
 ![](/design/images/jenkins1.PNG)
 
