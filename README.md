@@ -38,7 +38,7 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 #### 3. В случае необходимости изменить параметры, выбрав значения из выпадающих списков
 #### 4. Нажать "Собрать"
 #### 5. Результат запуска сборки можно посмотреть в отчёте Allure
-![](/design/images/jenkins2.png)
+![](/design/images/jenkins2.pn)
 
 ## Локальный запуск автотестов
 Пример командной строки:
