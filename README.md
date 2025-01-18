@@ -56,4 +56,4 @@ allure.bat serve allure-results
 
 
 ## Видеоотчёт теста
-![](https://github.com/VladimirSedunov/softwarecom/blob/master/design/video/test_video.gif)
+![](https://github.com/VladimirSedunov/amtelsoft/design/video/test_video.gif)
