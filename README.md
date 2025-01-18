@@ -19,7 +19,6 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 
 
 ## Запуск автотестов выполняется на сервере Jenkins
-> <a target="_blank" href="http://10.155.56.61:8888/job/Demo test softwarecom/">Ссылка на проект в Jenkins</a>
 
 
 ### Параметры сборки
