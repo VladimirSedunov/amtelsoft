@@ -1,7 +1,7 @@
 <h1 align="center">Проект по тестированию сайта<br>"Амтел-Софт - цифровой интегратор."</h1>
 > <a target="_blank" href="https://amtelsoft.ru/">Ссылка на единый портал</a>
 
-![This is an image](/design/images/main_page.PN)
+![This is an image](/design/images/main_page.PNG)
 
 ### Список проверок, реализованных в автотестах
 - [x] Наличие требуемых заголовков на каждой из страниц, соответствующих пунктам в главном (верхнем) меню
